@@ -12,7 +12,7 @@ tags:
   - unhealthy
   - scratch faces
 ---
-![](/img/products-grid1.jpg)
+![coffee beans](/img/products-grid1.jpg "Brown Beans")
 
 The topic of coffee driving people crazy is something that can be seen on many movies, TV shows, and even video games. This idea that this commercialized and seemingly safe product could somehow lead to unfortunate consequences just doesn't sound right at first. However, the more we look into the idea, the more it sounds plausible.
 
