@@ -16,7 +16,7 @@ tags:
 
 The topic of coffee driving people crazy is something that can be seen on many movies, TV shows, and even video games. This idea that this commercialized and seemingly safe product could somehow lead to unfortunate consequences just doesn't sound right at first. However, the more we look into the idea, the more it sounds plausible.
 
-Let's look at the facts:
+## Let's look at the facts:
 
 * It is a drug
 * It's made from BEANS
