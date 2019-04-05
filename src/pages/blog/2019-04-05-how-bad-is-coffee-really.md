@@ -12,4 +12,15 @@ tags:
   - unhealthy
   - scratch faces
 ---
+![](/img/products-grid1.jpg)
+
 The topic of coffee driving people crazy is something that can be seen on many movies, TV shows, and even video games. This idea that this commercialized and seemingly safe product could somehow lead to unfortunate consequences just doesn't sound right at first. However, the more we look into the idea, the more it sounds plausible.
+
+Let's look at the facts:
+
+* It is a drug
+* It's made from BEANS
+* It's got caffine in it
+* It tastes awful
+
+The more you look at the facts, the more you begin to realize where this fiction comes from. Maybe this entire company is flawed. Maybe we should shipping you Jelly Beans instead of coffee beans. Maybe Jelly Beans are more sinister than we currently know. We'll update you as more information is released.
