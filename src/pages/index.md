@@ -67,6 +67,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-file: /img/arcade-book.pdf
+file: /img/menu.pdf
 ---
 
